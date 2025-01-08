@@ -1,0 +1,15 @@
+.header > h3 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+
+.container > .card {
+    border: 1px solid #000;
+    padding: 10px;
+}
